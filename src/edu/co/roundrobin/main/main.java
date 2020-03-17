@@ -6,6 +6,7 @@
 package edu.co.roundrobin.main;
 
 import edu.co.roundrobin.UI.GUI;
+import edu.co.roundrobin.logic.Queue;
 
 /**
  *
@@ -17,7 +18,7 @@ public class main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        GUI gui = new GUI();
+        Queue q = new Queue();
     }
     
 }
