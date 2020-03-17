@@ -1,0 +1,5 @@
+Este proyecto fue desarrolado con:
+* Apache NetBeans IDE 11.1
+* Java: 13.0.2
+* Java SE: 13.0.2+8
+* Hecho con la librería Swing 
